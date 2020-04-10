@@ -78,10 +78,12 @@
   height: 262px;
   background: #f8f8f8;
 .typelist-firstitem
-  width: 1216px;
+  // width: 1216px;
+  flex: 3;
+  display: flex;
 .typelist-item
-  display: inline-block;
-  width: 200px;
+  flex: 1;
+  // width: 200px;
   height: 262px;
   margin-right: 2px;
   background: white;

@@ -4,3 +4,10 @@
 .btred {
   border-top: red solid 1px;
 }
+
+.home-title {
+  font-size: 24px;
+  color: #4c4c4c;
+  font-weight: bold;
+  height: 58px;
+}
