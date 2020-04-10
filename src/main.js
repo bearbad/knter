@@ -8,6 +8,8 @@ Vue.config.productionTip = false;
 
 import './assets/css/reset.css';
 
+import './assets/css/app.css';
+
 import 'swiper/dist/css/swiper.css';
 
 Vue.use(vueSwiper);
