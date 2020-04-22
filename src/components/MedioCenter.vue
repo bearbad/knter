@@ -1,5 +1,5 @@
 <template>
-  <section class="medio-center">
+  <section class="medio-center content">
     <div class="home-title">
       <span>媒体中心</span>
     </div>

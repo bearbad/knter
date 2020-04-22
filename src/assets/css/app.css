@@ -1,10 +1,29 @@
 .bt2ea253 {
   border-top: #2ea253 solid 1px;
 }
+.bt49b6ee {
+  border-top: #49b6ee solid 1px;
+}
+.bte9ba00 {
+  border-top: #e9ba00 solid 1px;
+}
+.btf6a30b {
+  border-top: #f6a30b solid 1px;
+}
+.btff7e00 {
+  border-top: #ff7e00 solid 1px;
+}
+.bt22b2c2 {
+  border-top: #22b2c2 solid 1px;
+}
 .btred {
   border-top: red solid 1px;
 }
 
+.content {
+  padding: 0 40px;
+  margin-top: 50px;
+}
 .home-title {
   font-size: 24px;
   color: #4c4c4c;

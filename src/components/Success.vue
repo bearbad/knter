@@ -1,5 +1,5 @@
 <template>
-  <section class="success">
+  <section class="success content">
     <div class="home-title">
       <span>成功案例</span>
     </div>

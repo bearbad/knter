@@ -1,5 +1,5 @@
 <template>
-  <section class="about">
+  <section class="about content">
     <div>
       <div class="about-title home-title">
         <span>关于中烁</span>
@@ -11,7 +11,7 @@
         <div>
           <span>2020.3.32</span>
           <span>江苏中烁热能科技有限公司成立，公司地址中国江苏省南京市溧水区</span>
-          <span>江苏中烁热能科技有限公司成立，公司地址中国江苏省南京市溧水区江苏中烁热能科技有限公司成立，公司地址中国江苏省南京市溧水区江苏中烁热能科技有限公司成立，公司地址中国江苏省南京市溧水区</span>
+          <span>公司创始人为中国交通大学的科研教授及十数名博士，与业内数十年经验的民营企业合作，创建中烁公司，公司欲打造振兴中华民族产业... ...</span>
         </div>
       </div>
     </div>
@@ -23,6 +23,7 @@
 .about
   display: flex;
   height: 286px;
+  padding: 0 40px;
 .about
   > div:first-child
       flex: 2;
@@ -59,5 +60,5 @@
              font-size: 14px;
   > div:last-child
       flex: 1;
-      background: orange;
+      // background: orange;
 </style>

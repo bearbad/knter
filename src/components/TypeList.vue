@@ -1,5 +1,5 @@
 <template>
-  <section class="typelist">
+  <section class="typelist content">
     <div class="typelist-firstitem">
       <div class="typelist-item bt2ea253">
         <div class="typelist-item-img">
@@ -12,63 +12,64 @@
           <span>提供满足客户需求的定制化燃烧系统解决方案</span>
         </div>
       </div>
-      <div class="typelist-item btred">
+      <div class="typelist-item bt49b6ee">
         <div class="typelist-item-img">
           <img src="../assets/img/header.png"/>
         </div>
         <div class="typelist-item-title">
-          <span>燃烧系统</span>
+          <span>锅炉燃烧机</span>
         </div>
         <div class="typelist-item-content">
-          <span>提供满足客户需求的定制化燃烧系统解决方案</span>
+          <span>一体式锅炉用 标准燃烧器</span>
         </div>
       </div>
-      <div class="typelist-item bt2ea253">
+      <div class="typelist-item bte9ba00">
         <div class="typelist-item-img">
           <img src="../assets/img/header.png"/>
         </div>
         <div class="typelist-item-title">
-          <span>燃烧系统</span>
+          <span>工业换热器</span>
         </div>
         <div class="typelist-item-content">
-          <span>提供满足客户需求的定制化燃烧系统解决方案</span>
+          <span>间接式风-风 板式换热器</span>
         </div>
       </div>
-      <div class="typelist-item btred">
+      <div class="typelist-item btf6a30b">
         <div class="typelist-item-img">
           <img src="../assets/img/header.png"/>
         </div>
         <div class="typelist-item-title">
-          <span>燃烧系统</span>
+          <span>热风炉</span>
         </div>
         <div class="typelist-item-content">
-          <span>提供满足客户需求的定制化燃烧系统解决方案</span>
+          <span>高低温过程空气加热热风炉</span>
         </div>
       </div>
-      <div class="typelist-item bt2ea253">
+      <div class="typelist-item btff7e00">
         <div class="typelist-item-img">
           <img src="../assets/img/header.png"/>
         </div>
         <div class="typelist-item-title">
-          <span>燃烧系统</span>
+          <span>烘干机</span>
         </div>
         <div class="typelist-item-content">
-          <span>提供满足客户需求的定制化燃烧系统解决方案</span>
+          <span>粮食烘干机 洗涤烘干机</span>
         </div>
       </div>
-      <div class="typelist-item btred">
+      <div class="typelist-item bt22b2c2">
         <div class="typelist-item-img">
           <img src="../assets/img/header.png"/>
         </div>
         <div class="typelist-item-title">
-          <span>燃烧系统</span>
+          <span>服务</span>
         </div>
         <div class="typelist-item-content">
-          <span>提供满足客户需求的定制化燃烧系统解决方案</span>
+          <span>售前售后服务 7*24</span>
         </div>
       </div>
     </div>
     <div class="typelist-lastitem">
+      <span>我们提供完善的工业燃气、燃油加热解决方案，业务范围包括工业用、商用、及民用产品</span>
     </div>
   </section>
 </template>
@@ -76,17 +77,18 @@
 .typelist
   display: flex;
   height: 262px;
-  background: #f8f8f8;
 .typelist-firstitem
   // width: 1216px;
   flex: 3;
   display: flex;
+  background: #f8f8f8;
 .typelist-item
   flex: 1;
   // width: 200px;
   height: 262px;
   margin-right: 2px;
   background: white;
+  cursor: pointer;
 .typelist-item-img
   height: 80px;
   text-align: center;
@@ -102,8 +104,10 @@
 .typelist-item-content
   margin: 20px 25px;
   span
-    color: #e3dedb;
+    color: #737170;
 .typelist-lastitem
   flex: 1;
-  background: green;
+  padding: 100px 30px;
+  line-height:22px
+  // background: green;
 </style>
