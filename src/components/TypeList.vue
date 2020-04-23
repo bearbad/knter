@@ -76,15 +76,17 @@
 <style lang="stylus" scoped="">
 .typelist
   display: flex;
-  height: 262px;
+  // height: 262px;
+  flex-wrap: wrap;
 .typelist-firstitem
   // width: 1216px;
   flex: 3;
   display: flex;
   background: #f8f8f8;
+  flex-wrap: wrap;
 .typelist-item
   flex: 1;
-  // width: 200px;
+  min-width: 140px;
   height: 262px;
   margin-right: 2px;
   background: white;
@@ -109,5 +111,6 @@
   flex: 1;
   padding: 100px 30px;
   line-height:22px
+  // min-width: 200px;
   // background: green;
 </style>
