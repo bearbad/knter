@@ -9,31 +9,25 @@
     <div class="success-swiper">
       <swiper class="swiper" :options="swiperOption">
         <swiper-slide>
-          <img src="../assets/img/1.jpg" />
+          <img src="../assets/img/success/1.jpg" />
         </swiper-slide>
         <swiper-slide>
-          <img src="../assets/img/2.jpg" />
+          <img src="../assets/img/success/2.jpg" />
         </swiper-slide>
         <swiper-slide>
-          <img src="../assets/img/1.jpg" />
+          <img src="../assets/img/success/3.jpg" />
         </swiper-slide>
         <swiper-slide>
-          <img src="../assets/img/2.jpg" />
+          <img src="../assets/img/success/4.jpg" />
         </swiper-slide>
         <swiper-slide>
-          <img src="../assets/img/1.jpg" />
+          <img src="../assets/img/success/5.jpg" />
         </swiper-slide>
         <swiper-slide>
-          <img src="../assets/img/2.jpg" />
+          <img src="../assets/img/success/6.jpg" />
         </swiper-slide>
         <swiper-slide>
-          <img src="../assets/img/1.jpg" />
-        </swiper-slide>
-        <swiper-slide>
-          <img src="../assets/img/2.jpg" />
-        </swiper-slide>
-        <swiper-slide>
-          <img src="../assets/img/1.jpg" />
+          <img src="../assets/img/success/7.jpg" />
         </swiper-slide>
         <div class="swiper-pagination" slot="pagination"></div>
         <div class="swiper-button-prev" slot="button-prev"></div>
@@ -84,6 +78,6 @@
     font-size: 24px;
     background-color: white;
     img
-      width: 550px;
-      height: 230px;
+      width: 600px;
+      height: 332px;
 </style>
