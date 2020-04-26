@@ -211,6 +211,7 @@ export default {
   height: 92px
   display: flex;
 .header-logo
+  cursor: pointer;
   img
     height: 92px;
 .header-nav

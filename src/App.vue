@@ -10,4 +10,5 @@
   -webkit-font-smoothing antialiased
   -moz-osx-font-smoothing grayscale
   background: white;
+  min-width: 1366px;
 </style>

@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section class="home">
     <Header></Header>
     <Swiper></Swiper>
     <TypeList></TypeList>
@@ -32,3 +32,5 @@ export default {
   }
 };
 </script>
+<style lang="stylus" scoped>
+</style>
