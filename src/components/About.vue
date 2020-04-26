@@ -6,7 +6,7 @@
       </div>
       <div class="about-content">
         <div>
-          <img src="../assets/img/1.jpg"/>
+          <img src="../assets/img/about/1.png"/>
         </div>
         <div>
           <span>2020.3.32</span>

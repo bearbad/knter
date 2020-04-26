@@ -4,7 +4,7 @@
       <span>媒体中心</span>
     </div>
     <div>
-      <img src="../assets/img/1.jpg"/>
+      <img src="../assets/img/news/1.jpeg"/>
       <div class="medio-center-list">
         <span>公司位于那个地方，具体那个地方，到底有什么问题不，我很是想知道</span>
         <span>公司位于那个地方，具体那个地方，到底有什么问题不，我很是想知道</span>
